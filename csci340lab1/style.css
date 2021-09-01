@@ -1,0 +1,12 @@
+header {
+  padding: 20px;
+}
+
+header h1 {
+  color: black
+}
+
+.list {
+ font-family: 'Besley', serif;
+ color: green;
+}
