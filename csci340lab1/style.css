@@ -1,12 +1,34 @@
+body {
+  font-family: 'Besley', serif;
+  background-image: url('https://cdn.avopix.com/photos/detail/d_183996_cave-geological-formation-stone.jpg');
+  background-size: cover;
+  display: flex;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  align-items: baseline;
+}
+
 header {
   padding: 20px;
 }
 
 header h1 {
-  color: black
+  font-size: 60px;
+  color: springgreen;
+}
+
+header h2 {
+  color: red;
+  font-size: 40px;
+  font-style: oblique;
 }
 
 .list {
- font-family: 'Besley', serif;
- color: green;
+ color: springgreen;
+ font-size: 28px;
+ font-style: italic;
+ margin-left: 300px;
 }
